@@ -1,0 +1,22 @@
+<svg height="2100" width="2100" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M994 0 H 2064 V 1130 H 894 V 916 H 244 V 1130 H 0 V 720 H 330 V 510 H 994 Z"
+  fill="white" stroke="black"/>
+   <g transform="scale(0.5)">
+    <circle cx="994" cy="0" r="2" fill="blue"/>
+    <circle cx="2064" cy="0" r="2" fill="blue"/>
+    <circle cx="2064" cy="1130" r="2" fill="blue"/>
+    <circle cx="894" cy="1130" r="2" fill="blue"/>
+    <circle cx="894" cy="916" r="2" fill="blue"/>
+    <circle cx="244" cy="916" r="2" fill="blue"/>
+    <circle cx="244" cy="1130" r="2" fill="blue"/>
+    <circle cx="0" cy="1130" r="2" fill="blue"/>
+    <circle cx="0" cy="720" r="2" fill="blue"/>
+    <circle cx="330" cy="720" r="2" fill="blue"/>
+    <circle cx="330" cy="510" r="2" fill="blue"/>
+    <circle cx="994" cy="510" r="2" fill="blue"/>
+  </g>
+</svg>
+<!-- 
+
+  <polygon points="994,0 2064,0 2064,1130 894,1130 894,916 244,916 244,1130 0,1130 0,720 330,720 330,510, 994,510"
+  style="fill:#ffffff;stroke:#000000;stroke-width:3;fill-rule:nonzero;"/> -->

@@ -1,0 +1,53 @@
+{
+  "beacons": [
+    {
+      "name": "CC:78:AB:9D:BF:55",
+      "txpower": "-60",
+      "coordinate": {
+          "x": "0",
+          "y": "0"
+        },
+      "attribute": {
+        "uuid": "9d1f2007-d607-4640-a4d3-5f9f5d192da9",
+        "major": "1000",
+        "minor": "1083"
+      }
+    }, {
+      "name": "CC:78:AB:9D:EE:BD",
+      "txpower": "-60",
+      "coordinate": {
+          "x": "0",
+          "y": "1"
+        },
+      "attribute": {
+          "uuid": "9d1f2007-d607-4640-a4d3-5f9f5d192da9",
+          "major": "1000",
+          "minor": "1084"
+        }
+    }, {
+      "name": "CC:78:AB:9D:CA:90",
+      "txpower": "-60",
+      "coordinate": {
+          "x": "1",
+          "y": "1"
+        },
+      "attribute": {
+          "uuid": "9d1f2007-d607-4640-a4d3-5f9f5d192da9",
+          "major": "1000",
+          "minor": "1085"
+        }
+    }, {
+      "name": "CC:78:AB:9D:EC:6C",
+      "txpower": "-60",
+      "coordinate": {
+          "x": "1",
+          "y": "0"
+        },
+      "attribute": {
+          "uuid": "9d1f2007-d607-4640-a4d3-5f9f5d192da9",
+          "major": "1000",
+          "minor": "1086"
+      }
+    }
+  ]
+}
